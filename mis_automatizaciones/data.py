@@ -1,0 +1,19 @@
+
+
+USER = "au2vvv003"
+PASSWORD = "Pwst12345*"
+SERVER = "m.assist.com.uy/mobileservices/"
+
+RUTA_DEFAULT = "DOMINGO"
+
+'''VCO'''
+# RUTA_DESEADA = "RUTA AUTOMATIZACIÓN"
+# CLIENT_ID = ""
+
+'''VENTA DE CRÉDITO / RECIBO DE PAGO'''
+RUTA_DESEADA = "RUTA AUTOMATIZACIÓN CRÉDITO"
+CLIENT_ID = ""
+
+
+
+
